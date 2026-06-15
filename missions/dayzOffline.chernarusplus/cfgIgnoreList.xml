@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ignore>
+    <type name="Ammo_Flare"/>
+    <type name="Ammo_FlareBlue"/>
+    <type name="Ammo_FlareGreen"/>
+    <type name="Ammo_FlareRed"/>
+    <type name="Bandage"/>
+    <type name="BandanaMask_BlackPattern"/>
+    <type name="BandanaMask_CamoPattern"/>
+    <type name="BandanaMask_GreenPattern"/>
+    <type name="BandanaMask_PolkaPattern"/>
+    <type name="BandanaMask_RedPattern"/>
+    <type name="CattleProd"/>
+    <type name="DallasMask"/>
+    <type name="Defibrillator"/>
+    <type name="EasterEgg"/>
+    <type name="EngineOil"/>
+    <type name="Flaregun"/>
+    <type name="HescoBox"/>
+    <type name="HoxtonMask"/>
+    <type name="Mag_STANAGCoupled_30Rnd"/>
+    <type name="Spear"/>
+    <type name="StunBaton"/>
+    <type name="TransitBus"/>
+    <type name="WolfMask"/>
+    <type name="Wreck_Mi8"/>
+</ignore>

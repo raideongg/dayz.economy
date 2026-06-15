@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="ZmbF_BlueCollarFat_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_BlueCollarFat_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_BlueCollarFat_Red">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_BlueCollarFat_White">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_CitizenANormal_Beige">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_CitizenANormal_Blue">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_CitizenANormal_Brown">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_CitizenBSkinny">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_Clerk_Normal_Blue">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_Clerk_Normal_Green">
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_Clerk_Normal_Red">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_Clerk_Normal_White">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_DoctorSkinny">
+        <attachments preset="hatsMedic"/>
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_HikerSkinny_Blue">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbF_HikerSkinny_Green">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbF_HikerSkinny_Grey">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbF_HikerSkinny_Red">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbF_JoggerSkinny_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_JoggerSkinny_Brown">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_JoggerSkinny_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_JoggerSkinny_Red">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="helmetsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_JournalistNormal_Blue">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_JournalistNormal_Green">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_JournalistNormal_Red">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_JournalistNormal_White">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_MechanicNormal_Beige">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_MechanicNormal_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_MechanicNormal_Grey">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_MechanicNormal_Orange">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbF_MilkMaidOld_Beige">
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_MilkMaidOld_Black">
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_MilkMaidOld_Green">
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_MilkMaidOld_Grey">
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_NurseFat">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_ParamedicNormal_Blue">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_ParamedicNormal_Green">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_ParamedicNormal_Red">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_PatientOld">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbF_PoliceWomanNormal">
+        <attachments preset="hatsPolice"/>
+        <cargo chance="0.10">
+            <item name="Mag_SSG82_5rnd" chance="1.00"/>
+        </cargo>
+        <cargo preset="ammoPolice"/>
+        <cargo preset="toolsPolice"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_beige">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_black">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_brown">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_checks">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_green">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_grey">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_red">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_stripes">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_white">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_ShortSkirt_yellow">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SkaterYoung_Brown">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SkaterYoung_Striped">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SkaterYoung_Violet">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SurvivorNormal_Blue">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SurvivorNormal_Orange">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_SurvivorNormal_Red">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_SurvivorNormal_White">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbF_VillagerOld_Blue">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbF_VillagerOld_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_VillagerOld_Red">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbF_VillagerOld_White">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_CitizenASkinny_Blue">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CitizenASkinny_Brown">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_CitizenASkinny_Grey">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CitizenASkinny_Red">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CitizenBFat_Blue">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CitizenBFat_Green">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CitizenBFat_Red">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_ClerkFat_Brown">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_ClerkFat_Grey">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_ClerkFat_Khaki">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_ClerkFat_White">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Blue">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Brown">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Grey">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Olive">
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Beige">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Black">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Grey">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_DoctorFat">
+        <attachments preset="hatsMedic"/>
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_FarmerFat_Beige">
+        <attachments preset="backpacks_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_FarmerFat_Blue">
+        <attachments preset="glassesVillage"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_FarmerFat_Brown">
+        <attachments preset="glassesVillage"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_FarmerFat_Green">
+        <attachments preset="glassesVillage"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_FirefighterNormal">
+        <attachments preset="hatsFirefighter"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_FishermanOld_Blue">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_FishermanOld_Green">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_FishermanOld_Grey">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_FishermanOld_Red">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_Gamedev_Black">
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Gamedev_Blue">
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Gamedev_Gray">
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_HandymanNormal_Beige">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HandymanNormal_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HandymanNormal_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HandymanNormal_Grey">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HandymanNormal_White">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HeavyIndustryWorker">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_HermitSkinny_Beige">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HermitSkinny_Black">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HermitSkinny_Green">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HermitSkinny_Red">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HikerSkinny_Blue">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HikerSkinny_Green">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HikerSkinny_Yellow">
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HunterOld_Autumn">
+        <attachments preset="bagsHunter"/>
+        <attachments preset="hatsFarm"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsHunter"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HunterOld_Spring">
+        <attachments preset="bagsHunter"/>
+        <attachments preset="hatsFarm"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsHunter"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HunterOld_Summer">
+        <attachments preset="bagsHunter"/>
+        <attachments preset="hatsFarm"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsHunter"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_HunterOld_Winter">
+        <attachments preset="bagsHunter"/>
+        <attachments preset="hatsFarm"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsHunter"/>
+        <cargo preset="foodHermit"/>
+        <cargo preset="toolsHermit"/>
+    </type>
+    <type name="ZmbM_Jacket_beige">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_black">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_blue">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_bluechecks">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_Jacket_brown">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_greenchecks">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_grey">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_khaki">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Jacket_magenta">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_Jacket_stripes">
+        <attachments preset="bagsCity"/>
+        <attachments preset="glassesCity"/>
+        <attachments preset="hatsCity"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_JoggerSkinny_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_JoggerSkinny_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_JoggerSkinny_Red">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="helmetsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_JournalistSkinny">
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_MechanicSkinny_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_MechanicSkinny_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_MechanicSkinny_Grey">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_MechanicSkinny_Red">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_MotobikerFat_Beige">
+        <attachments preset="hatsMotorbike"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_MotobikerFat_Black">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="helmetsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_MotobikerFat_Blue">
+        <attachments preset="hatsMotorbike"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_Mummy">
+        <cargo chance="0.05">
+            <item name="AntiChemInjector" chance="1.00"/>
+        </cargo>
+        <cargo chance="0.50">
+            <item name="HumanSteakMeat" chance="1.00"/>
+        </cargo>
+        <cargo chance="0.50">
+            <item name="BandageDressing" chance="0.50"/>
+            <item name="Rag" chance="0.50"/>
+        </cargo>
+        <cargo chance="0.50">
+            <item name="Epinephrine" chance="0.33"/>
+            <item name="IodineTincture" chance="0.33"/>
+            <item name="Morphine" chance="0.33"/>
+        </cargo>
+        <cargo chance="0.50">
+            <item name="CharcoalTablets" chance="0.25"/>
+            <item name="PainkillerTablets" chance="0.25"/>
+            <item name="TetracyclineAntibiotics" chance="0.25"/>
+            <item name="VitaminBottle" chance="0.25"/>
+        </cargo>
+        <cargo preset="ContaminatedCargo"/>
+    </type>
+    <type name="ZmbM_NBC_Grey">
+        <cargo chance="0.03">
+            <item name="AntiChemInjector" chance="1.00"/>
+        </cargo>
+        <cargo preset="ContaminatedCargo"/>
+    </type>
+    <type name="ZmbM_NBC_Yellow">
+        <cargo chance="0.01">
+            <item name="AntiChemInjector" chance="1.00"/>
+        </cargo>
+        <cargo preset="ContaminatedCargo"/>
+    </type>
+    <type name="ZmbM_OffshoreWorker_Green">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_OffshoreWorker_Orange">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_OffshoreWorker_Red">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_OffshoreWorker_Yellow">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsIndustrial"/>
+        <attachments preset="vestsIndustrial"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsIndustrial"/>
+    </type>
+    <type name="ZmbM_ParamedicNormal_Black">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_ParamedicNormal_Blue">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_ParamedicNormal_Green">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_ParamedicNormal_Red">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_PatientSkinny">
+        <cargo preset="toolsMedic"/>
+    </type>
+    <type name="ZmbM_PatrolNormal_Autumn">
+        <attachments preset="bagsArmy"/>
+        <attachments preset="hatsArmy"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsArmy"/>
+        <cargo preset="ammoArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_PatrolNormal_Flat">
+        <attachments preset="bagsArmy"/>
+        <attachments preset="hatsArmy"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsArmy"/>
+        <cargo preset="ammoArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_PatrolNormal_PautRev">
+        <attachments preset="bagsArmy"/>
+        <attachments preset="hatsArmy"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsArmy"/>
+        <cargo preset="ammoArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_PatrolNormal_Summer">
+        <attachments preset="bagsArmy"/>
+        <attachments preset="hatsArmy"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsArmy"/>
+        <cargo preset="ammoArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_PolicemanFat">
+        <attachments preset="hatsPolice"/>
+        <cargo chance="0.10">
+            <item name="Mag_SSG82_5rnd" chance="1.00"/>
+        </cargo>
+        <cargo preset="ammoPolice"/>
+        <cargo preset="toolsPolice"/>
+    </type>
+    <type name="ZmbM_PolicemanSpecForce">
+        <attachments preset="hatsPolice"/>
+        <cargo chance="0.30">
+            <item name="Mag_Scout_5Rnd" chance="0.50"/>
+            <item name="Mag_SSG82_5rnd" chance="0.50"/>
+        </cargo>
+        <cargo preset="ammoPolice"/>
+        <cargo preset="toolsPolice"/>
+    </type>
+    <type name="ZmbM_PolicemanSpecForce_Heavy">
+        <attachments preset="hatsPolice"/>
+        <attachments preset="vestsPolice"/>
+        <cargo chance="0.30">
+            <item name="Mag_Scout_5Rnd" chance="0.50"/>
+            <item name="Mag_SSG82_5rnd" chance="0.50"/>
+        </cargo>
+        <cargo preset="ammoPolice"/>
+        <cargo preset="toolsPolice"/>
+    </type>
+    <type name="ZmbM_priestPopSkinny">
+        <cargo preset="foodHermit"/>
+    </type>
+    <type name="ZmbM_PrisonerSkinny">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsPrisoner"/>
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14"/>
+        </cargo>
+    </type>
+    <type name="ZmbM_Santa">
+        <attachments preset="SantaHat"/>
+    </type>
+    <type name="ZmbM_SkaterYoung_Blue">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="helmetsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_SkaterYoung_Brown">
+        <attachments preset="bagsCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_SkaterYoung_Green">
+        <attachments preset="bagsCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_SkaterYoung_Grey">
+        <attachments preset="bagsCity"/>
+        <attachments preset="hatsCitySkate"/>
+        <cargo preset="foodCity"/>
+        <cargo preset="toolsCity"/>
+    </type>
+    <type name="ZmbM_SoldierNormal">
+        <attachments preset="bagsArmy"/>
+        <attachments preset="hatsArmy"/>
+        <attachments preset="headtorches"/>
+        <attachments preset="vestsArmy"/>
+        <cargo preset="ammoArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_usSoldier_Heavy_Woodland">
+        <attachments preset="HeavyArmorArmy"/>
+        <attachments preset="HeavyHelmetArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_usSoldier_Officer_Desert">
+        <attachments preset="headtorches"/>
+        <attachments preset="OfficerHatArmy"/>
+        <cargo preset="foodArmy"/>
+    </type>
+    <type name="ZmbM_VillagerOld_Blue">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+    <type name="ZmbM_VillagerOld_Green">
+        <attachments preset="backpacks_T1"/>
+        <attachments preset="hatsCommon_T1"/>
+        <cargo preset="drinks_T1"/>
+        <cargo preset="food_T1"/>
+        <cargo preset="toolsCommon_T1"/>
+    </type>
+    <type name="ZmbM_VillagerOld_White">
+        <attachments preset="glassesVillage"/>
+        <attachments preset="hatsFarm"/>
+        <cargo preset="foodVillage"/>
+        <cargo preset="toolsVillage"/>
+    </type>
+</spawnabletypes>

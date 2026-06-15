@@ -1,1 +1,1 @@
-# dayz.economy
+# DayZ Central Economy

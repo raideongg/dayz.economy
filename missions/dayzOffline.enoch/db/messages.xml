@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!-- NOTE: See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information -->
+    <message>
+        <deadline>600</deadline>
+        <shutdown>1</shutdown>
+        <text>[ALERT] Server Restart: #tmin minutes.</text>
+    </message>
+</messages>
